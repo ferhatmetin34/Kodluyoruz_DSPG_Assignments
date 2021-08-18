@@ -1,0 +1,1 @@
+Bu repo'da Kodluyoruz Data Science for Social Good kapsamındaki her türlü not ve ödevleri paylaşacağım.
