@@ -17,4 +17,4 @@ SELECT COUNT(country) FROM country WHERE LENGTH(country) = 5
 
 5 - city tablosundaki şehir isimlerinin kaçtanesi 'R' veya r karakteri ile biter?
 
-SELECT city FROM city WHERE city ILIKE '%r'
+SELECT COUNT(city) FROM city WHERE city ILIKE '%r'
